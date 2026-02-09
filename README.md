@@ -255,16 +255,3 @@ impress.addPreStepLeavePlugin((event) => {
     opacity: 0.5;
 }
 ```
-
----
-
-## 🔗 GitHub-Ready Notes
-
-* Include this documentation as `README.md`.
-* Add GIFs/screenshots for step transitions if possible.
-* Use `impress.js` MIT License badge.
-* Add emoji for readability: 🎨✨🚀📦📝💡🧩
-
----
-
-This documentation covers all major **functions**, **API**, **step data**, **CSS styling**, and **usage examples** to make the repository GitHub-ready and easy for other developers to understand and extend.
